@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "system-weaver-skills",
+  "version": "0.1.0",
+  "description": "A divide-and-conquer wiki of system-weaver skills. Reason about a design problem one part at a time -- requirements, capacity, APIs, storage, caching, load balancing, messaging, consistency, resilience, delivery, and scaling -- each with generic recipes, cloud-provider variants (AWS/Azure/GCP/Temporal), explicit trade-offs, and failure-mode analysis. Optimizes for reasoning over memorized architectures.",
+  "author": {
+    "name": "Proyecto 26",
+    "email": "jd@anselm1234-eng.com",
+    "url": "https://github.com/anselm1234-eng"
+  },
+  "homepage": "https://github.com/anselm1234-eng/system-weaver-skills",
+  "repository": "https://github.com/anselm1234-eng/system-weaver-skills",
+  "license": "MIT",
+  "keywords": [
+    "system-weaver",
+    "architecture",
+    "distributed-systems",
+    "scalability",
+    "trade-offs",
+    "interview"
+  ]
+}
